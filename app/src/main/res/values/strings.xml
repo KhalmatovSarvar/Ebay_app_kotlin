@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ebay_app_kotlin</string>
+    <string name="todays_deals_all_with_free_shipping">Todays Deals - All With Free \nShipping ➔</string>
+    <string name="brave_the_cold_with_winter_essentials">Brave the cold with\nwinter essentials</string>
+</resources>
